@@ -40,7 +40,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 37,
     "versionPublish": "5.2.0",
-    "imageResize": true,
+    "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": false,
